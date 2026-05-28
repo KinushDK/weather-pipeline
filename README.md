@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # 🌩️ US Weather Events Data Pipeline (2016–2022)
 
 An end-to-end data engineering pipeline that ingests, cleans, models and visualises
@@ -317,5 +317,4 @@ Built as a data engineering portfolio project demonstrating:
 - Business intelligence with Metabase
 - Containerised deployment with Docker
 =======
-# weather-pipeline
->>>>>>> fc622558ac7ce25c78eac366e468f513c23b3594
+
