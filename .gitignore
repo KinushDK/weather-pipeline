@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+dbt_venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+
+# Airflow
+airflow-logs/
+logs/
+
+
+# Docker
+pgdata/
+
+# Temp
+*.tmp
+_tmp_*.csv
+
+# Large data files (exceeds GitHub 100MB limit)
+WeatherEvents_Jan2016-Dec2022.csv
+*.csv
